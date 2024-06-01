@@ -72,10 +72,9 @@ Contributions to enhance the Sales Dashboard are welcome. Please follow these st
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-
-For questions or further information, please contact [Your Name] at [Your Email].
-
----
 
 This README provides a clear and concise guide for understanding, setting up, and using the Sales Dashboard project, ensuring users can effectively leverage its features for enhanced business insights.
+
+![Screenshot (44)](https://github.com/Aryagupta32/Sales-Dashboard-using-PowerBi/assets/109028531/cb3d550f-8f61-4322-b7a1-422eb5d97f74)
+
+
